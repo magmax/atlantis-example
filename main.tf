@@ -1,5 +1,5 @@
 locals {
-  names = ["foo", "bar"]
+  names = ["foo", "bar", "bazz"]
 }
 
 resource "null_resource" "example" {
